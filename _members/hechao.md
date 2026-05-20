@@ -16,7 +16,7 @@ links:
 
 I am He Chao, a new Ph.D. student at the Institute for Network Sciences and Cyberspace (INSC), **[Tsinghua University](https://www.tsinghua.edu.cn/)**. I am just beginning my research journey, with curiosity, enthusiasm, and a hope to enjoy the process along the way.
 
-I am a member of the [Network Architecture and Measurement Group](https://thuname.github.io/lab-website/), advised by **Assistant Research Professor [Lin He](https://helinhl.github.io/)** and under the leadership of **Prof. [Ying Liu](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**.
+I am a member of the [Network Architecture and Measurement Group](https://thuname.github.io/lab-website/), advised by **Associate Research Professor [Lin He](https://helinhl.github.io/)** and under the leadership of **Prof. [Ying Liu](https://www.insc.tsinghua.edu.cn/info/1157/2456.htm)**.
 
 My research interests include **network measurement**, **programmable networks**, and other emerging topics in computer networking. I am broadly interested in understanding how real-world network systems operate, exploring new networking technologies, and building practical systems that can help make networks more efficient, reliable, and secure.
 
